@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
                     channelName, NotificationManager.IMPORTANCE_LOW));
         }
 
-        //Check Google play service
+        //Check Google play service 下面的代码不要也可以，是从网上拷贝的
         GoogleApiAvailability googleAPI = GoogleApiAvailability.getInstance();
         int resultCode = googleAPI.isGooglePlayServicesAvailable(this);
 
