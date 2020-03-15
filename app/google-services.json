@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "583113622557",
+    "firebase_url": "https://jin-test-01.firebaseio.com",
+    "project_id": "jin-test-01",
+    "storage_bucket": "jin-test-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583113622557:android:b149e1d05aa0b9bf8ff2f4",
+        "android_client_info": {
+          "package_name": "com.afi.jintest01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583113622557-2q1f4n3vq6g0c9t1iasilojoqh5mgnot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeK50TzuacYRYKD91tDYuuZpQFUTQeQys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583113622557-2q1f4n3vq6g0c9t1iasilojoqh5mgnot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
