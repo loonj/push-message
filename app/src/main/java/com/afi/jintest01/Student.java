@@ -3,6 +3,7 @@ package com.afi.jintest01;
 public class Student {
     private int age;
     private String name;
+    private int gender;
 
     public int getAge() {
         return age;
@@ -18,5 +19,13 @@ public class Student {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public int getGender() {
+        return gender;
+    }
+
+    public void setGender(int gender) {
+        this.gender = gender;
     }
 }
