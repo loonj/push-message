@@ -51,6 +51,7 @@ public class MainActivity extends AppCompatActivity {
                         PLAY_SERVICES_RESOLUTION_REQUEST).show();
             } else {
                 Log.e(TAG, "This device is not supported.");
+                Log.e(TAG, "This device is not supported.");
                 finish();
             }
         }
