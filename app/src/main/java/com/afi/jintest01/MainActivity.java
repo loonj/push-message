@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
             } else {
                 Log.e(TAG, "This device is not supported.");
                 Log.e(TAG, "This device is not supported.");
-                Log.e(TAG, "这是一个dev分支的代码.");
+                Log.e(TAG, "这是一个master master分支的代码.");
                 finish();
             }
         }
