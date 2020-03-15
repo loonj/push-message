@@ -4,6 +4,8 @@ public class Student {
     private int age;
     private String name;
     private int height;
+    private int gender;
+
 
     public int getAge() {
         return age;
@@ -21,11 +23,21 @@ public class Student {
         this.name = name;
     }
 
+
     public int getHeight() {
         return height;
     }
 
     public void setHeight(int height) {
         this.height = height;
+    }
+
+    public int getGender() {
+        return gender;
+    }
+
+    public void setGender(int gender) {
+        this.gender = gender;
+
     }
 }
